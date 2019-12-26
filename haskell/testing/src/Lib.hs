@@ -13,3 +13,6 @@ doubleUs x y = doubleMe x + doubleMe y
 
 doubleSmallNumber :: Int -> Int
 doubleSmallNumber x = if x > 100 then x else doubleMe x
+
+doubleSmallNumber' :: Int -> Int
+doubleSmallNumber' x = (if x > 100 then x else doubleMe x) + 1
