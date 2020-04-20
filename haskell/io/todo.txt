@@ -1,2 +1,3 @@
+Send help./todo view todo.txt 
 lovey erica.
 finish programming
