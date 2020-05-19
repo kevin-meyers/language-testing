@@ -1,0 +1,13 @@
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.csprojAssemblyReference.cache
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.csproj.CoreCompileInputs.cache
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfoInputs.cache
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfo.cs
+/home/kevin/workspace/language-testing/csharp/bin/Debug/netcoreapp3.1/csharp
+/home/kevin/workspace/language-testing/csharp/bin/Debug/netcoreapp3.1/csharp.deps.json
+/home/kevin/workspace/language-testing/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.json
+/home/kevin/workspace/language-testing/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.dev.json
+/home/kevin/workspace/language-testing/csharp/bin/Debug/netcoreapp3.1/csharp.dll
+/home/kevin/workspace/language-testing/csharp/bin/Debug/netcoreapp3.1/csharp.pdb
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.dll
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.pdb
+/home/kevin/workspace/language-testing/csharp/obj/Debug/netcoreapp3.1/csharp.genruntimeconfig.cache
