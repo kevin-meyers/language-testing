@@ -1,0 +1,62 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.33.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: 026e3c5bfb86498d505c98a99d780bd6090cc60e4af2494ca85f13c7c05ff093
+
+name:           code-wars
+version:        0.1.0.0
+description:    Please see the README on GitHub at <https://github.com/githubuser/code-wars#readme>
+homepage:       https://github.com/githubuser/code-wars#readme
+bug-reports:    https://github.com/githubuser/code-wars/issues
+author:         Author name here
+maintainer:     example@example.com
+copyright:      2020 Author name here
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+extra-source-files:
+    README.md
+    ChangeLog.md
+
+source-repository head
+  type: git
+  location: https://github.com/githubuser/code-wars
+
+library
+  exposed-modules:
+      Lib
+  other-modules:
+      Paths_code_wars
+  hs-source-dirs:
+      src
+  build-depends:
+      base >=4.7 && <5
+  default-language: Haskell2010
+
+executable code-wars-exe
+  main-is: Main.hs
+  other-modules:
+      Paths_code_wars
+  hs-source-dirs:
+      app
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , code-wars
+  default-language: Haskell2010
+
+test-suite code-wars-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Paths_code_wars
+  hs-source-dirs:
+      test
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , code-wars
+  default-language: Haskell2010
